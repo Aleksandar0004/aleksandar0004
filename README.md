@@ -1,4 +1,7 @@
 ### Hi there 👋
+ I’m currently learning C#.I thrive on challenges and believe that continuous learning is the key to staying relevant in the ever-evolving world of technology. 
+ In my free time i like to learning new things.
+"Programming is thinking, not typing." - Casey Patton
 
 <!--
 **Aleksandar0004/aleksandar0004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
